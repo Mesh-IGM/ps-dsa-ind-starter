@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp_Sample
+﻿namespace Week1Demo
 {
     /// <summary>
     /// Class to hold static helper methods related to prompting for 
