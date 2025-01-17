@@ -1,6 +1,8 @@
 # ps-dsa-ind-starter
 This is a template project for students to use in IGME 106 to track demo and individual assignment code.
 
+**ALL of your individual programming work this semester should be managed in this repo!**
+
 # Getting Started
 
 Get your favorite Git client:
